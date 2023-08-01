@@ -1,0 +1,15 @@
+C:\Users\2022102020034\source\repos\CadastrarAluno\CadastrarAluno\bin\Debug\net6.0\CadastrarAluno.exe
+C:\Users\2022102020034\source\repos\CadastrarAluno\CadastrarAluno\bin\Debug\net6.0\CadastrarAluno.deps.json
+C:\Users\2022102020034\source\repos\CadastrarAluno\CadastrarAluno\bin\Debug\net6.0\CadastrarAluno.runtimeconfig.json
+C:\Users\2022102020034\source\repos\CadastrarAluno\CadastrarAluno\bin\Debug\net6.0\CadastrarAluno.dll
+C:\Users\2022102020034\source\repos\CadastrarAluno\CadastrarAluno\bin\Debug\net6.0\CadastrarAluno.pdb
+C:\Users\2022102020034\source\repos\CadastrarAluno\CadastrarAluno\obj\Debug\net6.0\CadastrarAluno.csproj.AssemblyReference.cache
+C:\Users\2022102020034\source\repos\CadastrarAluno\CadastrarAluno\obj\Debug\net6.0\CadastrarAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2022102020034\source\repos\CadastrarAluno\CadastrarAluno\obj\Debug\net6.0\CadastrarAluno.AssemblyInfoInputs.cache
+C:\Users\2022102020034\source\repos\CadastrarAluno\CadastrarAluno\obj\Debug\net6.0\CadastrarAluno.AssemblyInfo.cs
+C:\Users\2022102020034\source\repos\CadastrarAluno\CadastrarAluno\obj\Debug\net6.0\CadastrarAluno.csproj.CoreCompileInputs.cache
+C:\Users\2022102020034\source\repos\CadastrarAluno\CadastrarAluno\obj\Debug\net6.0\CadastrarAluno.dll
+C:\Users\2022102020034\source\repos\CadastrarAluno\CadastrarAluno\obj\Debug\net6.0\refint\CadastrarAluno.dll
+C:\Users\2022102020034\source\repos\CadastrarAluno\CadastrarAluno\obj\Debug\net6.0\CadastrarAluno.pdb
+C:\Users\2022102020034\source\repos\CadastrarAluno\CadastrarAluno\obj\Debug\net6.0\CadastrarAluno.genruntimeconfig.cache
+C:\Users\2022102020034\source\repos\CadastrarAluno\CadastrarAluno\obj\Debug\net6.0\ref\CadastrarAluno.dll
